@@ -5,7 +5,7 @@
     }
     span.pagename.selected {
         color: transparent;
-        width: 115px;
+        width: 130px;
         overflow: hidden;
         display: inline-block;
         white-space: nowrap;
@@ -682,8 +682,7 @@ body > div.content {
                             box-sizing: border-box;
                             font-family: Arial, sans-serif;
                             display: block;
-                            min-width: 975px;
-                            max-width: 975px;
+                            width: 100%;
                             height: 100px;    
                             margin-bottom: 20px;
                             padding: 10px;
